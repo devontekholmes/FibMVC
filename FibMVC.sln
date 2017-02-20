@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibMVC", "FibMVC\FibMVC.csproj", "{017AD6B6-FAA9-4590-BFF5-36215F453989}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibMVC.Biz", "FibMVC.Biz\FibMVC.Biz.csproj", "{8742B901-2CA3-4265-99C0-595363AD84AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{017AD6B6-FAA9-4590-BFF5-36215F453989}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{017AD6B6-FAA9-4590-BFF5-36215F453989}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{017AD6B6-FAA9-4590-BFF5-36215F453989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8742B901-2CA3-4265-99C0-595363AD84AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8742B901-2CA3-4265-99C0-595363AD84AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8742B901-2CA3-4265-99C0-595363AD84AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8742B901-2CA3-4265-99C0-595363AD84AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
